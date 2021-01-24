@@ -1,0 +1,10 @@
+export {default as Header} from './header';
+export {default as Feature} from './feature';
+export {default as Depo} from './depo';
+export {default as Video} from './video';
+export {default as Footer} from './footer';
+export {default as payment} from './payment';
+export {default as Player} from './player';
+export {default as Card} from './creditcard';
+export {default as Gallery} from './gallery';
+export  {default as SignIn} from './signin';
